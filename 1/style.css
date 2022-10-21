@@ -13,6 +13,11 @@ ul {
 ul.intro-list {
   color: blueviolet;
 }
-a:visited {
-  color: yellow;
+.fake {
+  background-color: blueviolet;
+  height: 200px;
+}
+.container {
+  background-color: gold;
+  height: 1000px;
 }
